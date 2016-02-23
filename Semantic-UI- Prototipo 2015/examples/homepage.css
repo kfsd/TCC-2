@@ -1,0 +1,38 @@
+
+
+html {
+  font-size: 14px;
+}
+
+
+#home .menu .right.menu > .mobile.item {
+  display: none;
+}
+
+
+#home .masthead {
+  background-image: url(images/mundo.jpg);
+  margin: 0em;
+  padding: 5rem 0rem;
+  width: 100%;
+}
+
+#cad .masthead {
+  background-image: url(images/lp.jpg);
+  margin: 0em;
+  padding: 13rem 5rem;
+  width: 100%;
+}
+
+/*cadastro*/
+
+#cad .footer{
+  margin-top: ;
+  }
+
+
+#loginadm .center{
+	margin-left: ;
+	}
+
+
